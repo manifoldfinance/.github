@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Manifold Finance community chat
+    url: https://t.me/manifoldfinance
+    about: Please ask and answer questions here.
+  - name: Manifold Finance Security & Bug Bounty
+    url: https://github.com/manifoldfinance/security
+    about: Please report security vulnerabilities here.
