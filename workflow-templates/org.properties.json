@@ -1,7 +1,7 @@
  {
     "name": "Organization Workflow",
     "description": "Example CI workflow template.",
-    "iconName": "zap-icon",
+    "iconName": "manifold-button",
     "categories": [
         "Soliidty",
         "Vyper"
