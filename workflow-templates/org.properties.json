@@ -1,0 +1,15 @@
+ {
+    "name": "Organization Workflow",
+    "description": "Example CI workflow template.",
+    "iconName": "zap-icon",
+    "categories": [
+        "Soliidty",
+        "Vyper"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.sol$",
+        ".*\\.md$"
+    ]
+}
