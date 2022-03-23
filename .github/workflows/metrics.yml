@@ -13,7 +13,7 @@ jobs:
     steps:
     - uses: lowlighter/metrics@latest
       with:
-        user: saddle-finance
+        user: manifoldfinance
         filename: profile/metrics.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: header, activity, community, repositories, metadata
