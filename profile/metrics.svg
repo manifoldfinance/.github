@@ -215,14 +215,14 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 127.7 characters per line of code written</li>
+                        <li>Has approximately 135.0 characters per line of code written</li>
                         <li>Mostly pushes code around 16:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
             <footer>
-                <span>Last updated 27 Mar 2022, 00:01:36  with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 28 Mar 2022, 00:01:43  with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
