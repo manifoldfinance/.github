@@ -214,13 +214,13 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 02:00</li>
+                        <li>Mostly pushes code around 06:00</li>
                         <li>Mostly active on Monday</li>
                     </ul>
                 </div>
             </section>
             <footer>
-                <span>Last updated 1 Jun 2023, 00:11:50  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Jun 2023, 00:09:57  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
