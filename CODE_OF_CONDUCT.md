@@ -1,15 +1,16 @@
 ---
-source: [kb/community/guidelines](https://github.com/manifoldfinance/kb/blob/trunk/docs/Community/guidelines.md)
 title: Contributing and Community Dogma
 description: Contributing and Community Dogma and Social Rules
-version: 2022.08.25
+version: 2023.09.27
+authors: Manifold Finance Community
 ---
+
 
 # Contributing and Community Dogma
 
 :::caution
 
-version: 2022.08.25
+version: 2023.09.27
 
 :::
 
@@ -17,19 +18,21 @@ version: 2022.08.25
 
 This document is **largely** taken from/inspired by John A. De Goes. More specifically, the articles, ["ZIO Professionalism"](https://degoes.net/articles/zio-professionalism), ["Big Tent"](https://degoes.net/articles/big-tent), and ["Travis Brown, Abuser"](https://degoes.net/articles/travis-brown-abuser). Without his insight, this guideline would not be where it is today.
 
+These rules extend to [mevETH](https://meveth.xyz) insofar as Manifold Finance is involved with the protocol's operation.
+
 ## Motivation
 
-Manifold Finance (and by extension, OpenMEV) supports the right of every OSS engineer/developer to contribute on their terms, whatever those terms may be. Non-paying users of free software should not get to dictate these terms.
+Manifold Finance (and by extension, OpenMEV and mevETH) supports the right of every OSS engineer/developer to contribute on their terms, whatever those terms may be. Non-paying users of free software should not get to dictate these terms.
 
 Moreover, OpenMEV's stated objective of being a credible neutral org means that we must explicitly codify and formalize our ideals so that as it 'expands', there is a codified expectation of behavior from all contributors. _See 'Conquest's Second Law'_
 
 There is an ongoing effort to corrupt effort the fundamental premises of the open-source culture. Instead of meritocracy and "show me the code"; we are now urged to behave so that no one will ever feel uncomfortable.
 
-The effect – **the intended effect – is to diminish the prestige and autonomy of people who do the work** – write the code – in favor of self-appointed tone-policers. In the process, the freedom to speak necessary truths even when how they are expressed is unpleasant is being gradually strangled.
+The effect – **the intended effect – is to diminish the prestige and autonomy of people who do the work** – write the code – in favor of self-appointed tone-policers. In the process, the freedom to speak necessary truths, even when how they are expressed is unpleasant, is being gradually strangled.
 
 > This is undesirable as it both directly damages our self-correction process – and in its second-order effects. The habit of institutional tone policing, even when well-intentioned, too easily slides into the active censorship of disfavored views. --_The Right to be Rude_
 
-The cost of a culture in which avoiding offense trumps the liberty to speak is that subverters control the discourse. As such we must not internalize anticipatory surrender to these subverters.
+The cost of a culture in which avoiding offense trumps the liberty to speak is that subverts control the discourse. As such, we must not internalize anticipatory surrender to these subversives.
 
 ### Contributions come from happy users
 
@@ -49,9 +52,9 @@ What is Communication
 
 ### Conquest’s Second Law.
 
-1. Everyone is conservative about what he knows best.
+1. Everyone is conservative about what they know best.
 
-2. Any organization not explicitly right-wing sooner or later becomes left-wing.
+2. Any organization that is not explicitly right-wing eventually becomes left-wing.
 
 3. The simplest way to explain the behavior of any bureaucratic organization is to assume that it is controlled by a cabal of its enemies.
 
@@ -78,11 +81,11 @@ We must recognize that the actions of other organizations, protocols, etc. may h
 -   They undermine the trust that end-users and companies place in Ethereum
 -   They increase the risk involved in deploying solutions based on Ethereum
 -   They decrease the network value of Ethereum
--   They make OpenMEV look unprofessional to many developers, especially compared to the Ethereum/other ecosystems where major OSS projects would never behave in such a fashion.
+-   They make OpenMEV look unprofessional to many developers, especially compared to the Ethereum/other ecosystems, where major OSS projects would never behave in such a fashion.
 
 ### Areas of Principled Discussion
 
-Both Contributors and Users will have questions, 
+Both contributors and users will have questions, 
 • Need to establish a place for them to ask questions 
 • Public is ideal: 
   - Others can respond 
@@ -121,7 +124,7 @@ Our Contributor Covenant
 
 ### Pro Professionalism
 
--   **Pro-Professionalism**. Although behavior within the OpenMEV organization projects is already governed by the [OpenMEV Code of Conduct](#), I want to strengthen this code of conduct by making it clear that ad hominem and career sabotage have no place within the community. Projects in the OpenMEV organization exist only to help engineers and developers solve problems, regardless of their religion, political affiliation, race, or disposition to or affiliation or association with other OpenMEV community members or ecosystems.
+-   **Pro-Professionalism**. Although behavior within the OpenMEV and mevETH organization projects is already governed by the [OpenMEV Code of Conduct](#), I want to strengthen this code of conduct by making it clear that ad hominem and career sabotage have no place within the community. Projects in the OpenMEV organization exist only to help engineers and developers solve problems, regardless of their religion, political affiliation, race, or disposition to or affiliation or association with other OpenMEV community members or ecosystems.
 
 -   _pro-professionalism_, within OpenMEV official spaces (GitHub, Discourse, etc.), I have only ever seen welcoming, inclusive, and non-discriminatory behavior, without ad hominem or career sabotage. But explicitly committing to this high standard of professionalism can only help to set expectations and provide guidance for everyone as the organization continues to grow.[^5]
 
@@ -131,8 +134,8 @@ It is not necessary that open source contributors have the same views or even li
 
 ## Social Rules
 
-Most projects have very few contributors, so in order to help facilitate getting contributors we enforce these social rules. These rules are from Recurse. The Recurse Center is an educational retreat for programmers who want to become dramatically better with a community of peers doing the same You must give if you want to get • Contributors are an investment in the future of the project • Contributors pay back many times what you put in
-Make it Easy to Contribute
+Most projects have very few contributors, so in order to help facilitate getting contributors, we enforce these social rules. These rules are from Recurse. The Recurse Center is an educational retreat for programmers who want to become dramatically better with a community of peers doing the same You must give if you want to get • Contributors are an investment in the future of the project • Contributors pay back many times what you put in.
+Make it easy to Contribute.
 
 [These rules are adopted from recurse.com/manual#sec-environment](https://www.recurse.com/manual#sec-environment)
 
@@ -151,13 +154,13 @@ The first rule means you shouldn't act surprised when people say they don't know
 A well-actually happens when someone says something that's almost - but not entirely - correct, and you say, "well, actually…" and then give a minor correction. This is especially annoying when the correction has no bearing on the actual conversation. This doesn't mean we are not  about truth-seeking or that we don't care about being precise. **Almost all well-actually's in our experience are about grandstanding, not truth-seeking.** Moreover it points to a need for attention seeking, which is not a healthy behavior in general. 
 
 #### No back-seat driving[^11]
-If you overhear people working through a problem, you shouldn't intermittently lob advice in chat, on issues, etc. This can lead to the "too many cooks" problem, but more important, **it can be rude and disruptive to half-participate in a conversation.** This isn't to say you shouldn't help, offer advice, or join conversations. On the contrary, we encourage all those things. Rather, **it just means that when you want to help out or work with others, you should fully engage and not just butt in sporadically.**
+If you overhear people working through a problem, you shouldn't intermittently lob advice in chat, on issues, etc. This can lead to the "too many cooks" problem, but more importantly, **it can be rude and disruptive to half-participate in a conversation.** This isn't to say you shouldn't help, offer advice, or join conversations. On the contrary, we encourage all those things. Rather, **it just means that when you want to help out or work with others, you should fully engage and not just butt in sporadically.**
 
 
 
 ### Why have social rules?
 
-These rules are designed to help all of us build a pleasant, productive, and robust community. Part of being a credible neutral environment is having a baseline of interactions so that the environment does not introduce undesirable effects (social, political, drama, etc.)
+These rules are designed to help all of us build a pleasant, productive, and robust community. Part of being a credible, neutral environment is having a baseline of interactions so that the environment does not introduce undesirable effects (social, political, drama, etc.)
 
 ## Coding Dogma
 
@@ -178,11 +181,11 @@ These rules are designed to help all of us build a pleasant, productive, and rob
 
 In general, we should handle disputes and violations of community guidelines quietly. We must maintain our reputability on this point by enforcing the guidelines and moderation policies appropriately.
 
-However, occasionally these events will spill out into public. In those cases, please let the npm executive team decide how best to communicate with the public.
+However, occasionally, these events will spill out into public. In those cases, please let the npm executive team decide how best to communicate with the public.
 
 ### Principles of public communication
 
-> Demonstrate that the Communidty Guidelines and moderation policy is being enforced fairly.
+> Demonstrate that the Community Guidelines and moderation policy is being enforced fairly.
 
 - Explain (briefly, neutrally, anonymously) what violation led to the enforcement action.
 - Help the community understand that they are not in danger of being attacked by capricious, punitive or irrational administrative actions.
@@ -210,13 +213,15 @@ Forcing a victim of harassment to acknowledge an apology from their harasser for
 
 If the harasser offers to apologize to the victim (especially in person), strongly discourage it. In fact, discourage any further interaction with the offended party.
 
-If a community member relays an apology to the victim, it should be brief and not require a response. ("X apologizes and agrees to have no further contact with you" is brief. "X is very sorry that their attempts to woo you were not received in the manner that was intended and will try to do better next time, they're really really sorry and hope that you can find it in your heart to forgive them" is emphatically not.)
+If a community member relays an apology to the victim, it should be brief and not require a response. ("X apologizes and agrees to have no further contact with you" is brief. "X is very sorry that their attempts to woo you were not received in the manner that was intended and will try to do better next time, they're really sorry and hope that you can find it in your heart to forgive them" is emphatically not.)
 
 If the harasser attempts to press an apology on someone who would clearly prefer to avoid them, or attempts to recruit others to relay messages on their behalf, this may constitute continued harassment.
 
 ## License
 
 This document is distributed under a [Creative Commons Attribution-ShareAlike license](https://creativecommons.org/licenses/by-sa/3.0/).
+
+Source for the Dogma: [kb/community/guidelines](https://github.com/manifoldfinance/kb/blob/trunk/docs/Community/guidelines.md)
 
 ## Citations
 
@@ -241,15 +246,14 @@ The Node.js Policy on Trolling, https://blog.izs.me/post/30036893703/policy-on-t
 
 [^4]: [See, DerbyCon Clarifications, Inclusiveness, and Gender](https://web.archive.org/web/20190428142347/https://www.derbycon.com/blog/derbycon-clarifications-inclusiveness-and-gender/#:~:text=However%2C%20we%20do,found%20so%20concerning)
 
-[^1]: [See https://blog.brixit.nl/why-i-left-pine64/](https://blog.brixit.nl/why-i-left-pine64/) for an example of when a large ecosystem (Pine64) stops supporting multiple integrations in favor of one for the deleterious effects of mono-culture. Additionally we can substatiate this negative community effect by other blog posts made by different commnunity members, such as ["Pine64's weird Priorities"](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html), and ["Pine has let its community down"](https://drewdevault.com/2022/08/18/PINE64-let-us-down.html)
+[^1]: [See https://blog.brixit.nl/why-i-left-pine64/](https://blog.brixit.nl/why-i-left-pine64/) for an example of when a large ecosystem (Pine64) stops supporting multiple integrations in favor of one for the deleterious effects of mono-culture. Additionally we can substantiate this negative community effect by other blog posts made by different community members, such as ["Pine64's weird Priorities"](https://drewdevault.com/2022/01/18/Pine64s-weird-priorities.html), and ["Pine has let its community down"](https://drewdevault.com/2022/08/18/PINE64-let-us-down.html)
 
 [^5]: [Golang Moderators violating their own Code of Conduct](https://github.com/golang/go/issues/44577#issuecomment-1137822116)
 
 [^6]: [See this issue thread on the golang issues page for exactly how **not** to act](https://github.com/golang/go/issues/30141). [A positive example shown by a moderator, though YMMV](https://github.com/golang/go/issues/44577#issuecomment-1137822116).
 
-
-[^8]: And then move on with the program. Do not revist the issue. 
+[^8]: And then move on with the program. Do not revisit the issue. 
 
 [^9]: [https://www.recurse.com/manual#:~:text=No%20feigning%20surprise](https://www.recurse.com/manual#:~:text=No%20feigning%20surprise)
 [^10]: [https://www.recurse.com/manual#:~:text=I%20don%27t%20understand.%22-,No%20well%2Dactually%27s,-A%20well%2Dactually](https://www.recurse.com/manual#:~:text=I%20don%27t%20understand.%22-,No%20well%2Dactually%27s,-A%20well%2Dactually)
-[^11]:  [https://www.recurse.com/manual#:~:text=No%20back%2Dseat%20driving](https://www.recurse.com/manual#:~:text=No%20back%2Dseat%20driving)
+[^11]: [https://www.recurse.com/manual#:~:text=No%20back%2Dseat%20driving](https://www.recurse.com/manual#:~:text=No%20back%2Dseat%20driving)
