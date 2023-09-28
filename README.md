@@ -1,8 +1,11 @@
 ---
 title: Manifold Finance GitHub Healthfiles
 description: Community Healthfiles
-version: v2021.10, 2023.05
+version: v2023.09.27 ,2021.10, 2023.05
 ---
+
+### https://github.com/manifoldfinance/meveth2/labels/meveth2 = https://github.com/manifoldfinance/meveth2/labels/rtfm + https://github.com/manifoldfinance/meveth2/labels/meveth-spec
+
 
 ## GitHub Status
 
@@ -20,4 +23,6 @@ version: v2021.10, 2023.05
 
 ### License
 
-CC-1.0
+Copyright 2023 Manifold Finance, Inc.    
+Copyright 2023 CommodityStream, Inc.    
+All Rights Reserved of their respective owners.     
