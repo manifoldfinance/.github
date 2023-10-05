@@ -28,7 +28,7 @@ Rest assured we will make every effort to acknowledge your contributions.
 ## Reporting a vulnerability
 
 >**Warning**     
-> Any security related issue should be reported to Manifold Finance via the [`Encrypted Contact Page`](https://flowcrypt.com/me/sammanifoldfinance)
+> Any security related issue should be reported to Manifold Finance via the [`Encrypted Contact Page`](https://flowcrypt.com/me/sammanifoldfinance) - or sam@manifoldfinance.com & security@manifoldfinance.com     
 
 ### Encrypted Communication Methods
 
